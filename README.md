@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namindu-07&label=Profile%20views&color=0e75b6&style=flat" alt="namindu-07" /> </p>
 
-- 🔭 I’m currently working on **FynAura**
+- 🔭 I’m currently working on **FynAura_MobileApp**
 
 - 🌱 I’m currently learning **OOP Concepts,Backend**
 
